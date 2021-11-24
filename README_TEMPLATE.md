@@ -1,7 +1,7 @@
 # Advent of Code __AOC_YEAR__ - My Solutions
 [![Build Status](https://github.com/__AOC_GITHUB_USER__/__AOC_GITHUB_REPO_PREFIX__-__AOC_YEAR__/workflows/build/badge.svg)](https://github.com/__AOC_GITHUB_USER__/__AOC_GITHUB_REPO_PREFIX__-__AOC_YEAR__/actions)
 [![Completion Status](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/__AOC_GITHUB_USER__/__AOC_GITHUB_REPO_PREFIX__-__AOC_YEAR__/master/.github/badges/completion.json)](https://github.com/__AOC_GITHUB_USER__/__AOC_GITHUB_REPO_PREFIX__-__AOC_YEAR__)
-[![Dependency Status](https://img.shields.io/david/__AOC_GITHUB_USER__/__AOC_GITHUB_REPO_PREFIX__-__AOC_YEAR__.svg)](https://david-dm.org/__AOC_GITHUB_USER__/__AOC_GITHUB_REPO_PREFIX__-__AOC_YEAR__)
+![Libraries.io dependency status for GitHub repo](https://img.shields.io/librariesio/github/__AOC_GITHUB_USER__/__AOC_GITHUB_REPO_PREFIX__-__AOC_YEAR__)
 [![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](https://raw.githubusercontent.com/__AOC_GITHUB_USER__/__AOC_GITHUB_REPO_PREFIX__-__AOC_YEAR__/master/LICENSE)
 
 // REPLACE ME WITH PUZZLE INTRODUCTION
